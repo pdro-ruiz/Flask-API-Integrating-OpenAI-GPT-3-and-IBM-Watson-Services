@@ -7,7 +7,7 @@ This repository provides a Flask-based API that integrates **OpenAI's GPT-3** an
 - Converting text to speech.
 
 <p align="center">
-  <img src="./Flask-API-Integrating-OpenAI-GPT-3-and-IBM-Watson-Services.jpg - RMS Titanic Dataset.jpg" alt="Asistente de voz">
+  <img src="./Flask-API-Integrating-OpenAI-GPT-3-and-IBM-Watson-Services.jpg" alt="Asistente de voz">
 </p> 
 
 ## 🚀 Features
